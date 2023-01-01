@@ -1,0 +1,25 @@
+/** @format */
+
+.App {
+	text-align: center;
+}
+
+.lane {
+	display: flex;
+	justify-content: center;
+	gap: 30px;
+	align-items: center;
+	justify-self: center;
+}
+
+.lane img {
+	border-radius: 50%;
+}
+
+.data {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	gap: 50px;
+	flex-direction: column;
+}
